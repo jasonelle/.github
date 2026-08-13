@@ -1,12 +1,16 @@
-## Hi there 👋
+# 🛸 Jasonelle
 
-<!--
+**Jasonelle** is a cozy, small, and powerful native wrapper for your Web Application. It allows you to wrap your web app and access native device features, converting it into iOS and Android apps with minimal effort.
 
-**Here are some ideas to get you started:**
+## 🚀 How It Works
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Jasonelle acts as a bridge between your web application and the native capabilities of iOS and Android. You provide it with a web app (either hosted or local), and it wraps it in a native shell, providing access to device features through a simple interface.
+
+## 🤝 Community
+
+Join our group of friends to support Jasonelle's development
+- **Telegram Chat**: [https://t.me/jasonelle](https://t.me/jasonelle)
+
+## 🙏 Credits
+
+Jasonelle is maintained by a small team. Your support through a membership purchase is highly appreciated and helps keep the tools updated.
